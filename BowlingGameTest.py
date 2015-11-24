@@ -39,3 +39,4 @@ class BowlingGameTest(unittest.TestCase):
  
     def roll_strike(self):
         self.g.roll(10)
+
